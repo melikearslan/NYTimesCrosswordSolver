@@ -1,4 +1,4 @@
-https://img.shields.io/badge/python-3.6-green?style=plastic&logo=python
+![](https://img.shields.io/badge/python-3.6-green?style=plastic&logo=python)
 
 # NYTimesCrosswordSolver
 A Python program that solves the NY Times Mini Crossword Puzzle using Selenium to scrape synonyms and relating words of the puzzle clues across Wikipedia, Datamuse, Google and ConceptNet, using Tkinter for the UI design.
@@ -11,4 +11,3 @@ The program attempts to solve the crossword puzzle using hill-climbing search to
 - Selenium
 - Tkinter
 - wikipedia
-
