@@ -1,0 +1,331 @@
+{
+    "clues": [
+        {
+            "orientation": "ACROSS",
+            "label": "1",
+            "clue": "Woman in Progressive ads"
+        },
+        {
+            "orientation": "ACROSS",
+            "label": "4",
+            "clue": "School zone sign"
+        },
+        {
+            "orientation": "ACROSS",
+            "label": "5",
+            "clue": "Corner ___ (phrase suggested by the circled letters)"
+        },
+        {
+            "orientation": "ACROSS",
+            "label": "6",
+            "clue": "Makes less difficult"
+        },
+        {
+            "orientation": "ACROSS",
+            "label": "7",
+            "clue": "They're dropped in the Boston accent"
+        },
+        {
+            "orientation": "DOWN",
+            "label": "1",
+            "clue": "2010s dance with swinging arms and hips"
+        },
+        {
+            "orientation": "DOWN",
+            "label": "2",
+            "clue": "Passed-down history"
+        },
+        {
+            "orientation": "DOWN",
+            "label": "3",
+            "clue": "Has to pay"
+        },
+        {
+            "orientation": "DOWN",
+            "label": "4",
+            "clue": "See 5-Down"
+        },
+        {
+            "orientation": "DOWN",
+            "label": "5",
+            "clue": "With 4-Down, five-pointed ocean creature"
+        }
+    ],
+    "board": [
+        {
+            "coordinate": {
+                "x": 1,
+                "y": 1
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "",
+            "fill": "rgb(0, 0, 0)",
+            "answer": ""
+        },
+        {
+            "coordinate": {
+                "x": 1,
+                "y": 2
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "",
+            "fill": "rgb(0, 0, 0)",
+            "answer": ""
+        },
+        {
+            "coordinate": {
+                "x": 1,
+                "y": 3
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "1",
+            "fill": "rgb(255, 218, 0)",
+            "answer": "F"
+        },
+        {
+            "coordinate": {
+                "x": 1,
+                "y": 4
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "2",
+            "fill": "rgb(167, 216, 255)",
+            "answer": "L"
+        },
+        {
+            "coordinate": {
+                "x": 1,
+                "y": 5
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "3",
+            "fill": "rgb(167, 216, 255)",
+            "answer": "O"
+        },
+        {
+            "coordinate": {
+                "x": 2,
+                "y": 1
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "",
+            "fill": "rgb(0, 0, 0)",
+            "answer": ""
+        },
+        {
+            "coordinate": {
+                "x": 2,
+                "y": 2
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "4",
+            "fill": "rgb(255, 255, 255)",
+            "answer": "S"
+        },
+        {
+            "coordinate": {
+                "x": 2,
+                "y": 3
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "",
+            "fill": "rgb(255, 255, 255)",
+            "answer": "L"
+        },
+        {
+            "coordinate": {
+                "x": 2,
+                "y": 4
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "",
+            "fill": "rgb(255, 255, 255)",
+            "answer": "O"
+        },
+        {
+            "coordinate": {
+                "x": 2,
+                "y": 5
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "",
+            "fill": "rgb(255, 255, 255)",
+            "answer": "W"
+        },
+        {
+            "coordinate": {
+                "x": 3,
+                "y": 1
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "5",
+            "fill": "rgb(255, 255, 255)",
+            "answer": "S"
+        },
+        {
+            "coordinate": {
+                "x": 3,
+                "y": 2
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "",
+            "fill": "rgb(255, 255, 255)",
+            "answer": "T"
+        },
+        {
+            "coordinate": {
+                "x": 3,
+                "y": 3
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "",
+            "fill": "rgb(255, 255, 255)",
+            "answer": "O"
+        },
+        {
+            "coordinate": {
+                "x": 3,
+                "y": 4
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "",
+            "fill": "rgb(255, 255, 255)",
+            "answer": "R"
+        },
+        {
+            "coordinate": {
+                "x": 3,
+                "y": 5
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "",
+            "fill": "rgb(255, 255, 255)",
+            "answer": "E"
+        },
+        {
+            "coordinate": {
+                "x": 4,
+                "y": 1
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "6",
+            "fill": "rgb(255, 255, 255)",
+            "answer": "E"
+        },
+        {
+            "coordinate": {
+                "x": 4,
+                "y": 2
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "",
+            "fill": "rgb(255, 255, 255)",
+            "answer": "A"
+        },
+        {
+            "coordinate": {
+                "x": 4,
+                "y": 3
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "",
+            "fill": "rgb(255, 255, 255)",
+            "answer": "S"
+        },
+        {
+            "coordinate": {
+                "x": 4,
+                "y": 4
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "",
+            "fill": "rgb(255, 255, 255)",
+            "answer": "E"
+        },
+        {
+            "coordinate": {
+                "x": 4,
+                "y": 5
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "",
+            "fill": "rgb(255, 255, 255)",
+            "answer": "S"
+        },
+        {
+            "coordinate": {
+                "x": 5,
+                "y": 1
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "7",
+            "fill": "rgb(255, 255, 255)",
+            "answer": "A"
+        },
+        {
+            "coordinate": {
+                "x": 5,
+                "y": 2
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "",
+            "fill": "rgb(255, 255, 255)",
+            "answer": "R"
+        },
+        {
+            "coordinate": {
+                "x": 5,
+                "y": 3
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "",
+            "fill": "rgb(255, 255, 255)",
+            "answer": "S"
+        },
+        {
+            "coordinate": {
+                "x": 5,
+                "y": 4
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "",
+            "fill": "rgb(0, 0, 0)",
+            "answer": ""
+        },
+        {
+            "coordinate": {
+                "x": 5,
+                "y": 5
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "",
+            "fill": "rgb(0, 0, 0)",
+            "answer": ""
+        }
+    ]
+}

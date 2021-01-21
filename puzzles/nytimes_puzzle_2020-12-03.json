@@ -1,0 +1,331 @@
+{
+    "clues": [
+        {
+            "orientation": "ACROSS",
+            "label": "1",
+            "clue": "\"Brooklyn Nine-Nine\" or \"The King of Queens\""
+        },
+        {
+            "orientation": "ACROSS",
+            "label": "5",
+            "clue": "\"What happens to us while we are making other plans,\" per Allen Saunders"
+        },
+        {
+            "orientation": "ACROSS",
+            "label": "6",
+            "clue": "Enjoys Santa Monica, perhaps"
+        },
+        {
+            "orientation": "ACROSS",
+            "label": "7",
+            "clue": "\"It's all clear now\""
+        },
+        {
+            "orientation": "ACROSS",
+            "label": "8",
+            "clue": "Singer nicknamed the \"Goddess of Pop\""
+        },
+        {
+            "orientation": "DOWN",
+            "label": "1",
+            "clue": "Partially melted snow"
+        },
+        {
+            "orientation": "DOWN",
+            "label": "2",
+            "clue": "New employee"
+        },
+        {
+            "orientation": "DOWN",
+            "label": "3",
+            "clue": "Result of a successful job interview"
+        },
+        {
+            "orientation": "DOWN",
+            "label": "4",
+            "clue": "Director Anderson"
+        },
+        {
+            "orientation": "DOWN",
+            "label": "6",
+            "clue": "[not my mistake]"
+        }
+    ],
+    "board": [
+        {
+            "coordinate": {
+                "x": 1,
+                "y": 1
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "",
+            "fill": "rgb(0, 0, 0)",
+            "answer": ""
+        },
+        {
+            "coordinate": {
+                "x": 1,
+                "y": 2
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "1",
+            "fill": "rgb(255, 218, 0)",
+            "answer": "S"
+        },
+        {
+            "coordinate": {
+                "x": 1,
+                "y": 3
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "2",
+            "fill": "rgb(167, 216, 255)",
+            "answer": "H"
+        },
+        {
+            "coordinate": {
+                "x": 1,
+                "y": 4
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "3",
+            "fill": "rgb(167, 216, 255)",
+            "answer": "O"
+        },
+        {
+            "coordinate": {
+                "x": 1,
+                "y": 5
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "4",
+            "fill": "rgb(167, 216, 255)",
+            "answer": "W"
+        },
+        {
+            "coordinate": {
+                "x": 2,
+                "y": 1
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "",
+            "fill": "rgb(0, 0, 0)",
+            "answer": ""
+        },
+        {
+            "coordinate": {
+                "x": 2,
+                "y": 2
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "5",
+            "fill": "rgb(255, 255, 255)",
+            "answer": "L"
+        },
+        {
+            "coordinate": {
+                "x": 2,
+                "y": 3
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "",
+            "fill": "rgb(255, 255, 255)",
+            "answer": "I"
+        },
+        {
+            "coordinate": {
+                "x": 2,
+                "y": 4
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "",
+            "fill": "rgb(255, 255, 255)",
+            "answer": "F"
+        },
+        {
+            "coordinate": {
+                "x": 2,
+                "y": 5
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "",
+            "fill": "rgb(255, 255, 255)",
+            "answer": "E"
+        },
+        {
+            "coordinate": {
+                "x": 3,
+                "y": 1
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "6",
+            "fill": "rgb(255, 255, 255)",
+            "answer": "S"
+        },
+        {
+            "coordinate": {
+                "x": 3,
+                "y": 2
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "",
+            "fill": "rgb(255, 255, 255)",
+            "answer": "U"
+        },
+        {
+            "coordinate": {
+                "x": 3,
+                "y": 3
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "",
+            "fill": "rgb(255, 255, 255)",
+            "answer": "R"
+        },
+        {
+            "coordinate": {
+                "x": 3,
+                "y": 4
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "",
+            "fill": "rgb(255, 255, 255)",
+            "answer": "F"
+        },
+        {
+            "coordinate": {
+                "x": 3,
+                "y": 5
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "",
+            "fill": "rgb(255, 255, 255)",
+            "answer": "S"
+        },
+        {
+            "coordinate": {
+                "x": 4,
+                "y": 1
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "7",
+            "fill": "rgb(255, 255, 255)",
+            "answer": "I"
+        },
+        {
+            "coordinate": {
+                "x": 4,
+                "y": 2
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "",
+            "fill": "rgb(255, 255, 255)",
+            "answer": "S"
+        },
+        {
+            "coordinate": {
+                "x": 4,
+                "y": 3
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "",
+            "fill": "rgb(255, 255, 255)",
+            "answer": "E"
+        },
+        {
+            "coordinate": {
+                "x": 4,
+                "y": 4
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "",
+            "fill": "rgb(255, 255, 255)",
+            "answer": "E"
+        },
+        {
+            "coordinate": {
+                "x": 4,
+                "y": 5
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "",
+            "fill": "rgb(0, 0, 0)",
+            "answer": ""
+        },
+        {
+            "coordinate": {
+                "x": 5,
+                "y": 1
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "8",
+            "fill": "rgb(255, 255, 255)",
+            "answer": "C"
+        },
+        {
+            "coordinate": {
+                "x": 5,
+                "y": 2
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "",
+            "fill": "rgb(255, 255, 255)",
+            "answer": "H"
+        },
+        {
+            "coordinate": {
+                "x": 5,
+                "y": 3
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "",
+            "fill": "rgb(255, 255, 255)",
+            "answer": "E"
+        },
+        {
+            "coordinate": {
+                "x": 5,
+                "y": 4
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "",
+            "fill": "rgb(255, 255, 255)",
+            "answer": "R"
+        },
+        {
+            "coordinate": {
+                "x": 5,
+                "y": 5
+            },
+            "width": "100px",
+            "height": "100px",
+            "label": "",
+            "fill": "rgb(0, 0, 0)",
+            "answer": ""
+        }
+    ]
+}
